@@ -1,4 +1,5 @@
 README: INFERENCE MODELS
+official implementation of: Mixture of Experts for Multitask Learning in Cardiotoxicity Assessment
 
 (required: anaconda)
 
