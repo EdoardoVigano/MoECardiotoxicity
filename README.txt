@@ -5,7 +5,9 @@ official implementation of: Mixture of Experts for Multitask Learning in Cardiot
 
 INSTALLATION
 
-1. create an environment 1: 
+1. Download MoECardiotoxicity
+
+2. create an environment 1: 
 	env for models
 	conda create --name alternative_multitask python=3.12
 	conda activate alternative_multitask
@@ -15,9 +17,9 @@ INSTALLATION
 
 	pip install  scikit-learn==1.4.2 rdkit=='2024.09.4' pandas mordred
 
-2. create an environment 2: 
+3. create an environment 2: 
 	CDDD env: https://github.com/jrwnter/cddd
-	(cddd folder should be in the same folder as modelhERG)
+	(download cddd. the cddd folder should be in the MoECardiotoxicity)
 
 3. how to use by terminal:
 	* conda activate alternative_multitask 
