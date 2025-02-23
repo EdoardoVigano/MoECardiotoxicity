@@ -21,7 +21,7 @@ INSTALLATION
 	CDDD env: https://github.com/jrwnter/cddd
 	(download cddd. the cddd folder should be in the MoECardiotoxicity)
 
-3. how to use by terminal:
+4. how to use by terminal:
 	* conda activate alternative_multitask 
 	* enter in folder  
 
@@ -31,6 +31,6 @@ INSTALLATION
 	# single molecule
 	* [command] python inference.py --smiles c1ccccc1O
 
-4. results:
+5. results:
 	prediction: csv file named prediction.csv in folder
 
