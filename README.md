@@ -1,9 +1,9 @@
-README: INFERENCE MODELS
-official implementation of: Mixture of Experts for Multitask Learning in Cardiotoxicity Assessment
+# README: INFERENCE MODELS
+Official implementation of: Mixture of Experts for Multitask Learning in Cardiotoxicity Assessment [PAPER](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-025-01072-7)
 
 (required: anaconda)
 
-INSTALLATION
+# INSTALLATION
 
 1. Download MoECardiotoxicity
 
@@ -25,12 +25,11 @@ INSTALLATION
 	* conda activate alternative_multitask 
 	* enter in folder  
 
-	# batch 
+ 	_batch_ 
 	* [command] python inference.py --filename data_test_model.csv # file csv with named column as "smiles"
 
-	# single molecule
+	_single molecule_
 	* [command] python inference.py --smiles c1ccccc1O
 
 5. results:
 	prediction: csv file named prediction.csv in folder
-
