@@ -1,5 +1,5 @@
 # README: INFERENCE MODELS
-Official implementation of: Mixture of Experts for Multitask Learning in Cardiotoxicity Assessment [PAPER](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-025-01072-7)
+Official implementation of: Mixture of Experts for Multitask Learning in Cardiotoxicity Assessment [1](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-025-01072-7)
 
 (required: anaconda)
 
@@ -33,3 +33,8 @@ Official implementation of: Mixture of Experts for Multitask Learning in Cardiot
 
 5. results:
 	prediction: csv file named prediction.csv in folder
+
+# References
+[1] Viganò, E.L., Iwan, M., Colombo, E. et al. Mixture of experts for multitask learning in cardiotoxicity assessment. J Cheminform 17, 135 (2025). https://doi.org/10.1186/s13321-025-01072-7
+
+
