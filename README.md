@@ -1,5 +1,5 @@
 # README: INFERENCE MODELS
-Official implementation of: Mixture of Experts for Multitask Learning in Cardiotoxicity Assessment [1](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-025-01072-7)
+Official implementation of: Mixture of Experts for Multitask Learning in Cardiotoxicity Assessment [[1]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-025-01072-7)
 
 (required: anaconda)
 
