@@ -12,8 +12,8 @@ Official implementation of: Mixture of Experts for Multitask Learning in Cardiot
 	conda create --name alternative_multitask python=3.12
 	conda activate alternative_multitask
 
-	# install torch version suitable for your pc: https://pytorch.org/get-started/locally/
-	es my case: pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+	install torch version suitable for your pc: https://pytorch.org/get-started/locally/
+	example: pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 
 	pip install  scikit-learn==1.4.2 rdkit=='2024.09.4' pandas mordred
 
